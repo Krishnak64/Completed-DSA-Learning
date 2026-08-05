@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0061-rotate-list) |
+| [0147-insertion-sort-list](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0147-insertion-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
