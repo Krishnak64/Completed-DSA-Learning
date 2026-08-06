@@ -5,6 +5,8 @@ class Solution {
         }
         ListNode curr = head, prev = null, next = null;
 
+        //--------------------- reversing list -------------------
+
         int c = k;
         while(curr != null && c > 0) {
             next = curr.next;
