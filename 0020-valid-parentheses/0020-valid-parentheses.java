@@ -1,32 +1,29 @@
 class Solution {
-    public boolean isValid(String s) { //T.C --> O(n)
-        Stack<Character> k = new Stack<>(); 
-        for(int i=0;i<s.length();i++) {
-            char ch = s.charAt(i);
-            // pushing onto stack
-            if(ch == '(' || ch == '[' || ch =='{') {
-                k.push(ch);
+    public boolean isValid(String s) {
+        Stack<Character> k = new Stack<>();
+        for(int i=0; i<s.length(); i++) {
+            char c = s.charAt(i);
+            if(c == '(' || c == '{' || c == '[') {
+                k.push(c);
             }
-            // if no element is in stack --- "})] " this case
             else {
                 if(k.isEmpty()) {
                     return false;
+                } 
+               
+                if((k.peek() == '(' && c == ')') || (k.peek() == '[' && c == ']') || (k.peek() == '{' && c == '}')) {
+                    k.pop();
                 }
-            
-            //checking parentheses
-            if((k.peek() == '(' && ch == ')')  ||  
-               (k.peek() == '[' && ch == ']')  || 
-               (k.peek() == '{' && ch == '}') ) {
-
-                 k.pop();
-            } else {
-                   return false;
-            }
-            }
-        }
+                else {
+                    return false;
+                }
+                
+            }            
+        } 
         if(k.isEmpty()) {
             return true;
         }
+
         return false;
     }
 }
