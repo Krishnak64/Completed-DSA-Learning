@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
