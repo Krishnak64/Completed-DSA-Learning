@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
