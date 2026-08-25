@@ -1,26 +1,30 @@
 class Solution {
     public int firstUniqChar(String s) {
-        int charCount[] = new int[26];
+        int freq[] = new int[26];
         int n = s.length();
-        int ans = -1;
-        Arrays.fill(charCount, 0);
+        Queue<Character> q = new LinkedList<>();
 
         for(int i=0; i<n; i++) {
-            char ch = s.charAt(i);
-            if(charCount[ch - 'a'] == 0) {
-                charCount[ch - 'a'] = 1;
-            } else {
-                charCount[ch - 'a'] = charCount[ch - 'a'] + 1;
+            freq[s.charAt(i) - 'a']++;
+            q.add(s.charAt(i));
+        }
+
+        while (!q.isEmpty() && freq[q.peek() - 'a'] > 1) {
+            q.remove();
+        }
+
+        if(q.isEmpty()) {
+            return -1;
+        }
+
+        int unique = q.peek();
+
+        for(int i=0 ; i<n; i++) {
+            if(s.charAt(i) == unique) {
+                return i;
             }
         }
 
-        for(int i=0; i<n; i++) {
-            char ch = s.charAt(i);
-            if(charCount[ch - 'a'] == 1) {
-                ans = i;
-                return ans;
-            }
-        }
-        return ans;
+        return -1;
     }
 }
