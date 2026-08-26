@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
+| [0520-detect-capital](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0520-detect-capital) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
