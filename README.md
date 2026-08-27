@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0147-insertion-sort-list) |
+| [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0496-next-greater-element-i) |
 ## Recursion
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
