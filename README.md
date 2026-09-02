@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
