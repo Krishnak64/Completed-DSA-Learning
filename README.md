@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Recursion
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
