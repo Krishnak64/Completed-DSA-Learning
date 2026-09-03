@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1480-running-sum-of-1d-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
