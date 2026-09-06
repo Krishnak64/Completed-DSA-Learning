@@ -18,9 +18,9 @@ class Solution {
                 }
             } else {
                 i++;
-                if(nums[j] != 0) {
+                // if(nums[j] != 0) {
                     j++;
-                }
+                // }
             }
         }
     }
