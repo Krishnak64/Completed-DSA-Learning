@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
