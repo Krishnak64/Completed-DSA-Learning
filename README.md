@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
