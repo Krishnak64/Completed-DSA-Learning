@@ -8,16 +8,20 @@ class Solution {
         }
 
         int map1[] = new int[26];
+        int map2[] = new int[26];
 
         for(int i=0; i<n; i++) {
             map1[s1.charAt(i) - 'a']++;
+            map2[s2.charAt(i) - 'a']++;
         }
 
-        for(int i=0; i<=m-n; i++) {
-            int map2[] = new int[26];
-            for(int j=0; j<n; j++) {
-                map2[s2.charAt(i+j) - 'a']++;
-            }
+        if(Arrays.equals(map1, map2)) {
+            return true;
+        }
+
+        for(int i=1; i<=m-n; i++) {
+            map2[s2.charAt(i-1) - 'a']--;
+            map2[s2.charAt(i+n-1) - 'a']++;
 
             if(Arrays.equals(map1, map2)) {
                 return true;
