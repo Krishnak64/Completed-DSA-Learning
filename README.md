@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
