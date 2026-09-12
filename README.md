@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
