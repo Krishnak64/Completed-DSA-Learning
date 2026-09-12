@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
 | [1109-corporate-flight-bookings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
