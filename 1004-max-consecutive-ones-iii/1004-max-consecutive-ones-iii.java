@@ -9,13 +9,13 @@ class Solution {
             int currentEle = nums[right];
             map.put(currentEle, map.getOrDefault(currentEle, 0) + 1);
 
-            int zeroes = map.getOrDefault(0, 0);
+            int zeros = map.getOrDefault(0, 0);
 
-            while(zeroes > k) {
+            while(zeros > k) {
                 int previouseEle = nums[left];
                 map.put(previouseEle, map.getOrDefault(previouseEle, 0) - 1);
                 left++;
-                zeroes = map.getOrDefault(0, 0);
+                zeros = map.getOrDefault(0, 0);
             }
 
             maxLen = Math.max(maxLen, right - left + 1);
