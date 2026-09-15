@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
