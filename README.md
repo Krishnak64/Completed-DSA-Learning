@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2104-sum-of-subarray-ranges) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
