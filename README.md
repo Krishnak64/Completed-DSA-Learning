@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
