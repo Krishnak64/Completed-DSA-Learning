@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1029-two-city-scheduling) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Array
 |  |
 | ------- |
