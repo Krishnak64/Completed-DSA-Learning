@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Lifting
 |  |
