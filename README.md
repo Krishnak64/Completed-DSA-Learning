@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1029-two-city-scheduling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
