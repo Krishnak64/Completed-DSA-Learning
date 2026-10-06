@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0538-convert-bst-to-greater-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
