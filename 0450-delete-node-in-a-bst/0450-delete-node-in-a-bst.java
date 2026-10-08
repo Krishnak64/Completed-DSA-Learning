@@ -14,14 +14,15 @@
  * }
  */
 class Solution {
-    public TreeNode delete(TreeNode root, int key){
-        if(root == null){
+
+    public TreeNode delete(TreeNode root, int val){
+        if(root == null) {
             return null;
         }
-        if(root.val < key){
-           root.right = delete(root.right, key);
-        } else if(root.val > key) {
-            root.left = delete(root.left, key);
+        if(root.val < val){
+           root.right = delete(root.right, val);
+        } else if(root.val > val) {
+            root.left = delete(root.left, val);
         }
 
         else{ // voila
@@ -47,12 +48,13 @@ class Solution {
         return root;
     }
 
-    public static TreeNode findInorderSuccessor(TreeNode root){
+    public TreeNode findInorderSuccessor(TreeNode root){
         while(root.left != null){
             root = root.left;
         }
         return root;
     }
+
     public TreeNode deleteNode(TreeNode root, int key) {
         return delete(root, key);
     }
