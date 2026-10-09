@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0222-count-complete-tree-nodes) |
 ## Timsort
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
