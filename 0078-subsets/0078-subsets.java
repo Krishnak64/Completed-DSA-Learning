@@ -1,16 +1,25 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> subs = new ArrayList<>();
-        
-        subs.add(new ArrayList<>());
-        for(int num : nums) {
-            int n = subs.size();
-            for(int i=0; i<n; i++) {
-                List<Integer> subset = new ArrayList<>(subs.get(i));
-                subset.add(num);
-                subs.add(subset);
-            }
+    public void findAllCombination(int idx, int arr[], List<List<Integer>> res, List<Integer> ds) {
+        if(idx == arr.length) {
+            
+            res.add(new ArrayList<>(ds));
+
+            return;
         }
-        return subs;
+
+        // include
+        ds.add(arr[idx]);
+        
+        findAllCombination(idx + 1, arr, res, ds);
+        ds.remove(ds.size() - 1);
+        // not include element condition
+        findAllCombination(idx + 1, arr, res, ds);
+
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+
+        findAllCombination(0, nums, res, new ArrayList<>());
+        return res;
     }
 }
