@@ -1,8 +1,8 @@
 class Solution {
-    public void findAllCombination(int idx, int arr[], List<List<Integer>> res, List<Integer> ds) {
+    public void findAllCombination(int idx, int arr[], Set<List<Integer>> set, List<Integer> ds) {
         if(idx == arr.length) {
             
-            res.add(new ArrayList<>(ds));
+            set.add(new ArrayList<>(ds));
 
             return;
         }
@@ -10,16 +10,17 @@ class Solution {
         // include
         ds.add(arr[idx]);
         
-        findAllCombination(idx + 1, arr, res, ds);
+        findAllCombination(idx + 1, arr, set, ds);
+        
         ds.remove(ds.size() - 1);
         // not include element condition
-        findAllCombination(idx + 1, arr, res, ds);
+        findAllCombination(idx + 1, arr, set, ds);
 
     }
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
+        Set<List<Integer>> set = new HashSet<>();
 
-        findAllCombination(0, nums, res, new ArrayList<>());
-        return res;
+        findAllCombination(0, nums, set, new ArrayList<>());
+        return new ArrayList<>(set);
     }
 }
