@@ -21,7 +21,7 @@ class Solution {
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums); // sort first to group duplicates
-        Set<List<Integer>> set = new HashSet<>();
+        Set<List<Integer>> set = new HashSet<>(); // store non-duplicate elements
 
         findAllCombination(0, nums, set, new ArrayList<>());
         return new ArrayList<>(set);
