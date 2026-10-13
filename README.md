@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
@@ -602,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0257-binary-tree-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
