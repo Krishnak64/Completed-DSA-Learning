@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0316-remove-duplicate-letters) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
