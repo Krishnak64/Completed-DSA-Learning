@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0113-path-sum-ii) |
@@ -611,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
