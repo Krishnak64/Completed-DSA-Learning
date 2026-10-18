@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -626,4 +629,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0509-fibonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
