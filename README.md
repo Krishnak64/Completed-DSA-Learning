@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dijkstra's Algorithm
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
