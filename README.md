@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0137-single-number-ii) |
