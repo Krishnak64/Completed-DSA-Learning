@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0735-asteroid-collision) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dijkstra's Algorithm
