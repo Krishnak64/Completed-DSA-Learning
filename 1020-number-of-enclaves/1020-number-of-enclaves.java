@@ -26,13 +26,13 @@ class Solution {
             return 0;
         }
 
-        for(int i=0; i<n; i++) { // traversaling first and last col
-            if(grid[i][0] == 1) {
-                dfs(grid, i, 0);
+        for(int j=0; j<n; j++) { // traversaling first and last col
+            if(grid[j][0] == 1) {
+                dfs(grid, j, 0);
             }
 
-            if(grid[i][m-1] == 1) {
-                dfs(grid, i, m-1);
+            if(grid[j][m-1] == 1) {
+                dfs(grid, j, m-1);
             }
         }
 
