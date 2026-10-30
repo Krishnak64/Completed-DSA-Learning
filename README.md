@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
