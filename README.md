@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1700-number-of-students-unable-to-eat-lunch) |
