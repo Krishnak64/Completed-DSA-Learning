@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0463-island-perimeter) |
