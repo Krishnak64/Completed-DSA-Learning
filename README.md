@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
+| [0091-decode-ways](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0435-non-overlapping-intervals) |
