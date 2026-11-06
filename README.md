@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0078-subsets) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0463-island-perimeter) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
