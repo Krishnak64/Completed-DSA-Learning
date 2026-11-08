@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0931-minimum-falling-path-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0931-minimum-falling-path-sum) |
 ## Quicksort
 |  |
 | ------- |
