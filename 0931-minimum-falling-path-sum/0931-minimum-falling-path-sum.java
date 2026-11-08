@@ -1,32 +1,5 @@
 class Solution {
-    static int rec(int i, int j, int n, int m, int matrix[][], int dp[][]) {
-        if(i == n-1) { // ------- last row ------
-            return matrix[i][j];
-        }
-
-        if(dp[i][j] != -1) {
-            return dp[i][j];
-        }
-
-        // ----------- choices -------
-
-        int down = Integer.MAX_VALUE;
-        int left = Integer.MAX_VALUE;
-        int right = Integer.MAX_VALUE;
-
-        down = matrix[i][j] + rec(i+1, j, n, m, matrix,dp);
-
-        if(j + 1 < m) {
-            right = matrix[i][j] + rec(i+1, j+1, n, m, matrix, dp);
-        }
-
-        if(j-1 >= 0) {
-            left = matrix[i][j] + rec(i+1, j - 1, n, m, matrix, dp);
-        }
-
-        return dp[i][j] = Math.min(down, Math.min(left, right));
-
-    }
+    
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
