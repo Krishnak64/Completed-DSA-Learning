@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
+| [1306-jump-game-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1306-jump-game-iii) |
 | [1314-matrix-block-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1314-matrix-block-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1306-jump-game-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2415-reverse-odd-levels-of-binary-tree) |
