@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0133-clone-graph](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0242-valid-anagram) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0043-multiply-strings) |
