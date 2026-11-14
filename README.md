@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0881-boats-to-save-people) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0733-flood-fill) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -744,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0207-course-schedule) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
