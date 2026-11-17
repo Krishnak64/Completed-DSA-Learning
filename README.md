@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1029-two-city-scheduling) |
 | [1382-balance-a-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1382-balance-a-binary-search-tree) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Array
 |  |
 | ------- |
