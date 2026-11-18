@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0445-add-two-numbers-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0509-fibonacci-number) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0198-house-robber) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0100-same-tree) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0100-same-tree) |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
