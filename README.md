@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0931-minimum-falling-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Quicksort
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 ## Graph Theory
 |  |
 | ------- |
