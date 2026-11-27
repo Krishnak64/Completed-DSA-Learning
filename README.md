@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -778,10 +780,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Krishnak64/Completed-DSA-Learning/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
